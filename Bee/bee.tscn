@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://shnnocpmqyvl"]
+
+[ext_resource type="SpriteFrames" uid="uid://dt371ogeqhtyy" path="res://bee.gif" id="1_27bgs"]
+[ext_resource type="Script" uid="uid://cqcv61h01x5r4" path="res://Bee/bee.gd" id="1_rsh24"]
+
+[node name="Bee" type="Node2D"]
+script = ExtResource("1_rsh24")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("1_27bgs")
+animation = &"gif"
+speed_scale = 0.7

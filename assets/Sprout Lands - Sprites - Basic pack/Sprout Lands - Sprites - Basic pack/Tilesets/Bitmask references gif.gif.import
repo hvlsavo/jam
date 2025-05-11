@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://qktf55csporb"
+path="res://.godot/imported/Bitmask references gif.gif-18ea228b1ea7ea396e84925c0e038b50.tres"
+
+[deps]
+
+source_file="res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/Bitmask references gif.gif"
+dest_files=["res://.godot/imported/Bitmask references gif.gif-18ea228b1ea7ea396e84925c0e038b50.tres"]
+
+[params]
+
+frames_per_second=30

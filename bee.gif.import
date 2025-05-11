@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dt371ogeqhtyy"
+path="res://.godot/imported/bee.gif-c4ef84ea75245f0dda88314c9c0a2541.tres"
+
+[deps]
+
+source_file="res://bee.gif"
+dest_files=["res://.godot/imported/bee.gif-c4ef84ea75245f0dda88314c9c0a2541.tres"]
+
+[params]
+
+frames_per_second=30
